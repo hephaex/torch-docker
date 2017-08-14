@@ -8,5 +8,4 @@ Alpine Core + [Torch7](http://torch.ch/)
 Usage
 -----
 
-For example, use `docker run -it hephaex/torch bash`.
-
+For example, use `docker run -it hephaex/torch`
